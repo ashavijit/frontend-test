@@ -74,7 +74,7 @@ div.section {
 
 div.section img {
     width: 30%;
-    max-width: 60px; /* Corrected typo in max-width property */
+    max-width: 60px; 
     object-fit: cover;
 }
 
